@@ -2,9 +2,11 @@ Repository to assist with installing Affinity in AUR.
 
 When starting for the first time, it will ask for a password, as it needs to generate a symlink home/stash linked to the user's folder, otherwise images cannot be opened or saved.
 
+This project is based on elements from AffinityOnLinux, another project whose aim is to facilitate the use of Affinity software on GNU/Linux with Wine.
 
 
-Main Page:https://www.affinity.studio
+Page of AffinityOnLinux:         https://github.com/seapear/AffinityOnLinux
+Main Page of Affinity by Canva:  https://www.affinity.studio
 
 
 
