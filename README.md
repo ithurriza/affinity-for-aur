@@ -4,7 +4,7 @@ When starting for the first time, it will ask for a password, as it needs to gen
 
 
 
-
+Main Page:https://www.affinity.studio
 
 
 
