@@ -6,6 +6,7 @@ This project is based on elements from AffinityOnLinux, another project whose ai
 
 
 Page of AffinityOnLinux:         https://github.com/seapear/AffinityOnLinux
+
 Main Page of Affinity by Canva:  https://www.affinity.studio
 
 
